@@ -3,6 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectConfigWhen", "NinjectConfigWhen\NinjectConfigWhen.csproj", "{C6606EE7-57B1-4844-BF6F-E526A34A96EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{56057BC7-A6BA-4B61-8C81-4E78B4C6BE11}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.markdown = Readme.markdown
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
